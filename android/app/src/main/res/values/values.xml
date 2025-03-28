@@ -1,0 +1,10 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">1:889057733925:android:3a67e07ed69efa9dd5fecc</string>
+    <string name="firebase_database_url" translatable="false"></string>
+    <string name="gcm_defaultSenderId" translatable="false">889057733925</string>
+    <string name="google_api_key" translatable="false">AIzaSyCYssf4wsh2IFs5wZfOD2r_WsxcX_QtV2I</string>
+    <string name="google_app_id" translatable="false">1:889057733925:android:3a67e07ed69efa9dd5fecc</string>
+    <string name="google_crash_reporting_api_key" translatable="false"></string> <!-- Optional: Add if needed -->
+    <string name="google_storage_bucket" translatable="false">tea-sampling-af614.appspot.com</string>
+    <string name="project_id" translatable="false">tea-sampling-af614</string>
+</resources>

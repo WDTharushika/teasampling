@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889057733925",
+    "project_id": "tea-sampling-af614",
+    "storage_bucket": "tea-sampling-af614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889057733925:android:3a67e07ed69efa9dd5fecc",
+        "android_client_info": {
+          "package_name": "com.example.tea_sampling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYssf4wsh2IFs5wZfOD2r_WsxcX_QtV2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
